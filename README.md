@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science on Cousera
+Data Science - Cousera
